@@ -1,4 +1,9 @@
-# Code for the article "Hack Your Next Interview with Generative AI"
+# Code for the article **[Hack Your Next Interview with Generative AI](https://slgero.medium.com/hack-your-next-interview-with-generative-ai-fb8c8bc3cbce)**
+
+### Demo:
+![](interview_gif.gif)
+
+### Architecture:
 ![](static/logo.png)
 
 ### Usage:
